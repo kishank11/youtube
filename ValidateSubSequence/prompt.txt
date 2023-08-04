@@ -1,0 +1,14 @@
+Problem:
+Given an array of integers and a sequence of integers,
+ write a function to determine whether the sequence is a 
+ valid subsequence of the given array.
+
+
+Array of integers
+Array of sequence
+while(arrIdx<arr.len && arrSeq < arrSeq.len){
+    
+}
+
+
+Array:[5, 1, 22, 25, 6, -1, 8, 10]
