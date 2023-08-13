@@ -1,0 +1,22 @@
+Push 5:
+Stack: [5]
+Min Stack: [5]
+Max Stack: [5]
+
+Push 2:
+
+Stack: [5, 2]
+Min Stack: [2]
+Max Stack: [5]
+
+Push 7:
+
+Stack: [5, 2, 7]
+Min Stack: [2]
+Max Stack: [7]
+
+Pop:
+
+Stack: [5, 2]
+Min Stack: [2]
+Max Stack: [5]

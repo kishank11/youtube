@@ -1,0 +1,19 @@
+Given an array of integers in ascending order, write 
+a function that returns a new array containing 
+the squares of each element. 
+The resulting array should also be sorted in ascending order.
+
+Input:
+
+An array of integers in ascending order.
+
+Example:
+
+Input: [1, 2, 3, 5, 6, 8, 9]
+
+
+1.empty array
+2.for each, squares
+3.iterate
+4.sort
+5.return

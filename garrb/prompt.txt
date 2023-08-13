@@ -1,0 +1,15 @@
+Binary Search Tree Construction
+
+    5
+   / \
+  3   8
+ /|   |\
+1 4   6 9
+
+All nodes in the left subtree have values less than the node's value.
+All nodes in the right subtree have values greater than the node's value.
+
+Steps
+1.create a class for Tree
+2.implementation
+3.main function

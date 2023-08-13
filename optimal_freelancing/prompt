@@ -1,0 +1,27 @@
+You are a talented freelancer with the opportunity to work on various projects, each requiring one day for completion and offering a specific payout. However, you want to maximize your earnings while adhering 
+to the constraint that you can only work within a week (7 days). 
+Your goal is to select a combination of projects within this one-week timeframe that yields the maximum profit.
+
+Input:
+
+An array of project objects, where each object contains the following properties:
+
+deadline: The day by which the project must be completed (an integer from 1 to 7).
+payment: The amount you will be paid for completing the project (a positive integer).
+
+Output:
+
+The maximum profit that can be earned by selecting the optimal combination of projects within the one-week timeframe.
+
+input = [{deadline:1,payment:1},
+{deadline:2,payment:1},
+{deadline:2,payment:2}]
+
+Steps
+
+1.max deadline
+2.sort in des
+3.timeline = len of week
+4.iterate
+5.continue (size of array)
+6.return max profit

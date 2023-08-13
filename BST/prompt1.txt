@@ -1,0 +1,14 @@
+   10
+  /  \
+ 5    15
+/ \   / \
+3  7 12  20
+
+In-Order Traversal:
+3 5 7 10 12 15 20
+
+Pre-Order Traversal:
+10 5 3 7 15 12 20
+
+Post-Order Traversal:
+3 7 5 12 20 15 10
